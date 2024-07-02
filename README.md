@@ -2,5 +2,4 @@ PORTFOLIO WEBSITE USING ( HTML , CSS , JS ) SUMMER TRANNING INTERNSHIP PROJECT S
 
 VIEW OF PORTFOLIO WEBSITE:
 
-
-![Web_Photo_Editor](https://github.com/MohdRehan45/Portfolio-website-/assets/162345068/f9401ab0-51b8-4934-ba95-d21860d02e32)
+![Web_Photo_Editor](https://github.com/MohdRehan45/Portfolio-website-/assets/162345068/175266b0-7f2d-493e-985b-20ecc4cdd63c)
